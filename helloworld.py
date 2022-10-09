@@ -1,2 +1,2 @@
 print("hello world")
-print("lab test")
+print("test for first assessment")
